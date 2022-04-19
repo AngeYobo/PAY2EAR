@@ -99,17 +99,11 @@ Four mechanics are used to stop cheating in the game, which include the cheater'
 
 Each account must only match one wristband (JUMPN). If an investor transfer wristband to another accounting system properly will lock up or burn in the marketplace.
 
-## Smart Contracts
-
-This is the overview of the technical implementation of JUMPN. All smart contracts can be found on GitHub once it's released.
-![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2FkutJy87SXqsoMpMlmpZT%2Fmode.png?alt=media&token=cd2e1f1b-8a47-4596-be5e-afc1543e48d8)
-
 ## Team
 
 ![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2F4aqUf3H0hM5IuflAYSxt%2FTHETEAM.png?alt=media&token=9a148009-7681-43e7-9a36-3075788d016c)
 
 ## Roadmap
-
 ![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2FiNmRaDKHVxDqQ9A3mXvY%2Froadmap.png?alt=media&token=7374bd96-25f7-4a27-9c91-19c888c0568a)
 
 ## Social and Community
