@@ -82,7 +82,7 @@ The initial supply of JET is 10,000,000. There are 100,000 JET minted per 24 hou
 
 ### Tokenomics
 
-![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2FjnciRE8ynRgUNuHiCt2k%2FJSTTOKENMETRICS.png?alt=media&token=ddc7f9b6-fed0-4dc0-801f-408440b22d0f)
+![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2FOLaI6CDRcYSKri2oGfpH%2FJSTTOKENMETRICS2.png?alt=media&token=100b5c1f-1e6f-47e4-b690-57c6b934857b)
 
 ## Airdrop
 
